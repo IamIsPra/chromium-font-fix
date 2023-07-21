@@ -2,7 +2,6 @@
     "manifest_version": 2,
     "name": "Font Fix for Chromium Browsers",
     "version": "1.0",
-    "default_locale": "en",
     "description": "A simple extension to fix the font rendering issue in Chromium browsers.",
     "icons": {
       "16": "icon_16.png",
